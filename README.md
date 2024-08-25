@@ -9,7 +9,6 @@ Software engineering is the systematic application of engineering principles and
  It involves a structured approach to building software that is reliable, efficient, scalable, and meets the needs of its users.   
 
 Key aspects of software engineering:
-
 Requirements gathering and analysis: Understanding what the software needs to do and defining its functionalities.
 Design: Creating a blueprint of the software, including its architecture, components, and interactions.   
 Coding: Writing the actual code using programming languages to implement the design.   
